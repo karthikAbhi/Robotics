@@ -3,7 +3,15 @@
 * ROS stands for Robot Operating System
 * Maintained by OSRF/Open Robotics
 
+## Learn ROS
 [Best Guide/Tutorial](http://wiki.ros.org/ROS/Tutorials)
+
+## Steps for Installation
+http://wiki.ros.org/kinetic/Installation/Ubuntu
+
+### Completed Tasks
+
+- [x] Install ROS version - ros-kinetic-desktop
 
 ## References
 
