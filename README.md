@@ -5,3 +5,7 @@ All about robots
 
 ## Example - Learning Robot by ClearPath Robotics
 - https://www.youtube.com/watch?v=Hkf9hIIi4hA
+
+## Configuring a Waypoint Robot for the First Time
+
+- https://www.youtube.com/watch?v=Hkf9hIIi4hA
